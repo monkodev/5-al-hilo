@@ -1,0 +1,15 @@
+Localizador Uniforme de Recurso (Definicion)
+URL (Respuesta)
+
+Sistema de Posicionamiento Global (Definicion)
+GPS (Respuesta)
+
+Línea de Suscripción Digital Asimétrica (Definicion)
+ADSL (Respuesta)
+
+Internet de las cosas (Definicion)
+IOT (Respuesta)
+
+Moderno sistema de conducción (Definicion)
+ADAS (Respuesta)
+
